@@ -1,6 +1,6 @@
 # Flask [Boilerplate Code](https://appseed.us/boilerplate-code)
 
-Playground boilerplate code used by the AppSeed community for simple web apps coded in Flask.
+Playground **boilerplate code** used by the [AppSeed](https://appseed.us) community for simple [Flask web apps](https://appseed.us/apps/flask-apps).
 
 <br />
 
