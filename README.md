@@ -1,4 +1,4 @@
-# Flask [Boilerplate Code](https://appseed.us/boilerplate-code)
+# [Flask Boilerplate Code](https://boilerplate-code-flask.herokuapp.com/)
 
 Playground **boilerplate code** used by the **[AppSeed](https://appseed.us)** community for simple [Flask web apps](https://appseed.us/apps/flask-apps).
 
@@ -90,4 +90,4 @@ If all goes well, we should see the app running in the browser.
 <br />
 
 ---
-Flask [Boilerplate Code](https://appseed.us/boilerplate-code) - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**. 
+[Flask Boilerplate Code](https://boilerplate-code-flask.herokuapp.com/) - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**. 
