@@ -1,11 +1,7 @@
 {
     "name": "boilerplate-code-flask",
-    "version": "1.0.0",
-    "description": "Open-source template project - Flask Boilerplate Code.",
-    "scripts": {
-        "start"  : "flask run",
-        "shell"  : "flask shell"
-    },
+    "version": "1.0.1",
+    "description": "Template project - Flask Boilerplate Code.",
     "repository": {
         "type": "git",
         "url": "https://github.com/app-generator/boilerplate-code-flask"
