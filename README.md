@@ -8,7 +8,7 @@
 - SQLite database, Flask-SQLAlchemy ORM
 - Session-Based auth flow (login, register)
 - UI Kit: **Paper Kit** by **Creative-Tim**
-- MIT License
+- **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
 - Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
