@@ -1,7 +1,10 @@
 {
     "name": "boilerplate-code-flask",
+    "mastertemplate": "boilerplate-code-flask",
     "version": "1.0.1",
-    "description": "Template project - Flask Boilerplate Code.",
+    "description": "Template project - Flask Boilerplate Code",
+    "scripts": {
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/app-generator/boilerplate-code-flask"
@@ -11,7 +14,6 @@
         "email": "support@appseed.us"
     },
     "author": "AppSeed App Generator <support@appseed.us> (https://appseed.us)",
-    "license": "MIT",
     "engines": {
         "node": ">=10.0.0"
     },

@@ -1,6 +1,5 @@
 # -*- encoding: utf-8 -*-
 """
-MIT License
 Copyright (c) 2019 - present AppSeed.us
 """
 
@@ -36,7 +35,8 @@ def register():
     # declare the Registration Form
     form = RegisterForm(request.form)
 
-    msg = None
+    msg     = None
+    success = False
 
     if request.method == 'GET': 
 
@@ -67,12 +67,13 @@ def register():
 
             user.save()
 
-            msg = 'User created, please <a href="' + url_for('login') + '">login</a>'     
+            msg     = 'User created, please <a href="' + url_for('login') + '">login</a>'     
+            success = True
 
     else:
         msg = 'Input error'     
 
-    return render_template( 'accounts/register.html', form=form, msg=msg )
+    return render_template( 'accounts/register.html', form=form, msg=msg, success=success )
 
 # Authenticate user
 @app.route('/login.html', methods=['GET', 'POST'])

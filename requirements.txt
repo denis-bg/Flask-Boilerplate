@@ -5,4 +5,5 @@ flask_wtf
 flask_sqlalchemy
 flask_bcrypt
 email_validator
+python-decouple
 gunicorn
