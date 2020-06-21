@@ -17,7 +17,7 @@
 
 - [Boierplate Code Flask](https://boilerplate-code-flask.appseed.us/) - LIVE Demo
 - [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
-- [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask) - Official product page
+- [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask-boilerplate) - Official product page
 - More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
 - [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
 
