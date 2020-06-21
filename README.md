@@ -1,4 +1,4 @@
-# [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask)
+# [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask-boilerplate)
 
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple web apps coded in [Flask](https://palletsprojects.com/p/flask/)
 
@@ -16,6 +16,7 @@
 > Links
 
 - [Boierplate Code Flask](https://boilerplate-code-flask.appseed.us/) - LIVE Demo
+- [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
 - [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask) - Official product page
 - More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
 - [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
@@ -201,4 +202,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Boierplate Code Flask](https://appseed.us/boilerplate-code/flask) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Boierplate Code Flask](https://appseed.us/boilerplate-code/flask-boilerplate) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
