@@ -21,6 +21,12 @@
 - More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
 - [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
 
+> Projects that uses this starter
+
+- [Flask Pixel UI Kit](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit) - [demo](https://flask-pixel-bootstrap-uikit.appseed.us/login.html), [sources](https://github.com/app-generator/flask-pixel-bootstrap-uikit)
+- [Flask Pixel UI Kit PRO](https://appseed.us/apps/flask-apps/flask-pixel-uikit-pro) - [demo](https://flask-pixel-uikit-pro.appseed.us/login.html)
+- [Flask Neumorphism UI](https://appseed.us/apps/flask-apps/flask-neumorphism-uikit) - [demo](https://flask-neumorphism-uikit.appseed.us/login.html), [sources](https://github.com/app-generator/flask-neumorphism-uikit)
+
 <br />
 
 ## Want more? Go PRO!
