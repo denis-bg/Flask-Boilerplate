@@ -4,8 +4,8 @@
 
 ## Features
 
-- UI Kit: **Neumorphism UI** by **Themesberg**
-- UI-Ready, Jinja2 templating
+- UI Kit: **Quick** (Free Version) by **Webpixels**
+- Theme: [Jinja2 Quick UI Kit](https://github.com/app-generator/theme-jinja2-quick-uikit)
 - SQLite database, Flask-SQLAlchemy ORM
 - Session-Based auth flow (login, register)
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
