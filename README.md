@@ -1,25 +1,22 @@
 # [Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate)
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple web apps coded in [Flask](https://palletsprojects.com/p/flask/)
+Open-Source Flask boilerlplate code used by the AppSeed platform as codebase for all [Flask Apps](https://appseed.us/apps/flask-apps). The project comes with basic modules, database, ORM, authentication and deployment scripts for Docker, HEROKU and Gunicorn/Nginx. 
+
+<br />
 
 ## Features
 
-- UI Kit: **Quick** (Free Version) by **Webpixels**
-- Theme: [Jinja2 Quick UI Kit](https://github.com/app-generator/theme-jinja2-quick-uikit)
+- UI Kit: **Quick UI** (Free Version) by **Webpixels**
 - SQLite database, Flask-SQLAlchemy ORM
 - Session-Based auth flow (login, register)
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Free support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
 - [Boierplate Code Flask](https://boilerplate-code-flask.appseed.us/) - LIVE Demo
 - [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
 - [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask-boilerplate) - Official product page
-- More [Flask Apps](https://appseed.us/apps/flask-apps) - index hosted by **[AppSeed](https://appseed.us)**
-- [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
 
 > Projects that use this starter
 
