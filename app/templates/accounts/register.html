@@ -29,6 +29,9 @@
                                 </p>
                             </div>
                             <span class="clearfix"></span>
+
+                            <!-- Hide the form on success--> 
+                            {% if not success %}
                             <form method="post" action="" class="mt-4">
 
                                 {{ form.hidden_tag() }}
@@ -69,6 +72,8 @@
                                 <div class="mt-4">
                                     <button type="submit" name="register" class="btn btn-block btn-primary">Sign in</button></div>
                             </form>
+                            {% endif %}
+
                         </div>
                         <div class="card-footer px-md-5"><small>Already registered?</small>
                             <a href="{{ url_for('login') }}" class="small font-weight-bold">Login</a>
