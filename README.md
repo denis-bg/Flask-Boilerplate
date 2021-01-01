@@ -240,4 +240,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate) - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
