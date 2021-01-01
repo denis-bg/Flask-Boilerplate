@@ -1,12 +1,8 @@
 # [Flask Boilerplate](https://appseed.us/boilerplate-code/flask-boilerplate)
 
-Open-Source Flask boilerlplate code used by the AppSeed platform as codebase for all [Flask Apps](https://appseed.us/apps/flask-apps). The project comes with basic modules, database, ORM, authentication and deployment scripts for Docker, HEROKU and Gunicorn/Nginx. 
+> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
-<br />
-
-## Features
-
-- UI Kit: **Quick UI** (Free Version) by **Webpixels**
+- UI Kit: **Quick** (Free Version) by **Webpixels**
 - SQLite database, Flask-SQLAlchemy ORM
 - Session-Based auth flow (login, register)
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
