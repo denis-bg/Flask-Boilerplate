@@ -10,13 +10,15 @@ Open-Source Flask boilerlplate code used by the AppSeed platform as codebase for
 - SQLite database, Flask-SQLAlchemy ORM
 - Session-Based auth flow (login, register)
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
-- Free support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
+
+<br />
 
 > Links
 
-- [Boierplate Code Flask](https://boilerplate-code-flask.appseed.us/) - LIVE Demo
-- [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
-- [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask-boilerplate) - Official product page
+- [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask-boilerplate) - Product page
+- [Boierplate Code Flask - Demo](https://boilerplate-code-flask.appseed.us/) - LIVE Demo
+- [Boierplate Code Flask - Docs](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
 
 <br />
 
