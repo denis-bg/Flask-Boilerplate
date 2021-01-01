@@ -1,10 +1,9 @@
 {
     "name": "boilerplate-code-flask",
     "mastertemplate": "boilerplate-code-flask",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Template project - Flask Boilerplate Code",
-    "scripts": {
-    },
+    "scripts": {},
     "repository": {
         "type": "git",
         "url": "https://github.com/app-generator/boilerplate-code-flask"
@@ -17,8 +16,6 @@
     "engines": {
         "node": ">=10.0.0"
     },
-    "dependencies": {
-    },
-    "devDependencies": {
-    }
+    "dependencies": {},
+    "devDependencies": {}
 }

@@ -1,7 +1,10 @@
 # Change Log
 
-## Unreleased
+## [1.0.3] 2021-01-01
 ### Improvements
+
+- 2021-01-01 - Registration
+    - Hide the form on success
 
 - 2020-06-28 - Update the UI Kit
     - Quick UI KIt by Webpixels
