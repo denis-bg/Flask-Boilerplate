@@ -18,6 +18,8 @@ Open-Source Flask boilerlplate code used by the AppSeed platform as codebase for
 - [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
 - [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask-boilerplate) - Official product page
 
+<br />
+
 > Projects that use this starter
 
 - [Flask Pixel UI Kit](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit) - [demo](https://flask-pixel-bootstrap-uikit.appseed.us/login.html), [sources](https://github.com/app-generator/flask-pixel-bootstrap-uikit)
