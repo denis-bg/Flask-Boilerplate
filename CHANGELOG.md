@@ -1,6 +1,6 @@
 # Change Log
 
-## [1.0.4] 2021-01-01
+## [1.0.4] 2021-03-18
 ### Improvements
 
 - Freeze used versions in `requirements.txt`
