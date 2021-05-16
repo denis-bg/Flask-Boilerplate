@@ -1,6 +1,6 @@
 # Change Log
 
-## [1.0.5] 2021-03-18
+## [1.0.5] 2021-05-16
 ### Dependencies Update
 
 - Freeze used versions in `requirements.txt`
