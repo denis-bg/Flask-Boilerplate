@@ -2,7 +2,9 @@
 
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
-- UI Kit: **Quick** (Free Version) by **Webpixels**
+- Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
+- [SCSS compilation](#recompile-css) via **Gulp**
+- UI Kit: **Pixel Lite** (Free Version) provided by **Themesberg**
 - SQLite database, Flask-SQLAlchemy ORM
 - Session-Based auth flow (login, register)
 - Deployment scripts: Docker, Gunicorn / Nginx, Heroku
@@ -12,9 +14,9 @@
 
 > Links
 
-- [Boierplate Code Flask](https://appseed.us/boilerplate-code/flask-boilerplate) - Product page
-- [Boierplate Code Flask - Demo](https://boilerplate-code-flask.appseed.us/) - LIVE Demo
-- [Boierplate Code Flask - Docs](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
+- [Boierplate Code Flask](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit) - product page
+- [Boierplate Code Flask](https://flask-pixel-lite.appseed-srv1.com/) - LIVE Deployment
+- [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
 
 <br />
 
@@ -104,13 +106,19 @@ The project has a super simple structure, represented as bellow:
    |    |    |    |-- login.html           # Use layout `base-fullscreen.html`
    |    |    |    |-- register.html        # Use layout `base-fullscreen.html`  
    |    |    |
-   |    |  index.html                      # The default page
-   |    |  page-404.html                   # Error 404 page (page not found)
-   |    |  page-500.html                   # Error 500 page (server error)
-   |    |    *.html                        # All other pages provided by the UI Kit
+   |    |    |-- home/                      # UI Kit Pages
+   |    |         |-- index.html            # Index page
+   |    |         |-- 404-page.html         # 404 page
+   |    |         |-- *.html                # All other pages
+   |
+   |
+   |-- Dockerfile                           # Deployment
+   |-- docker-compose.yml                   # Deployment
+   |-- gunicorn-cfg.py                      # Deployment   
+   |-- nginx                                # Deployment
+   |    |-- appseed-app.conf                # Deployment 
    |
    |-- requirements.txt
-   |
    |-- run.py
    |
    |-- ************************************************************************
@@ -142,7 +150,7 @@ $ cd boilerplate-code-flask
 $ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
 ```
 
-Visit `http://localhost:5005` in your browser. The app should be up & running.
+Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
