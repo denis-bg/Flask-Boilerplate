@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.7] 2021-09-16
+### Improvements
+
+- Rename model `User` to `Users` to avoid name conflict with ORACLE DBMS
+  - Impacted files:
+    - `app/{model.py, util.py, viewws.py}`  
+
 ## [1.0.6] 2021-09-16
 ### Improvements & Fixes
 
