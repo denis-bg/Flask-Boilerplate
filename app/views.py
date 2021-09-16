@@ -121,13 +121,13 @@ def index(path):
             path += '.html'
 
         # Serve the file (if exists) from app/templates/FILE.html
-        return render_template( path )
+        return render_template( 'home/' + path )
     
     except TemplateNotFound:
-        return render_template('page-404.html'), 404
+        return render_template('home/page-404.html'), 404
     
     except:
-        return render_template('page-500.html'), 500
+        return render_template('home/page-500.html'), 500
 
 # Return sitemap
 @app.route('/sitemap.xml')
