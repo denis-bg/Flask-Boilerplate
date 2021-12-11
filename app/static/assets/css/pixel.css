@@ -2195,8 +2195,7 @@ progress {
   .form-control::-webkit-file-upload-button {
     padding: 0.55rem 0.75rem;
     margin: -0.55rem -0.75rem;
-    -webkit-margin-end: 0.75rem;
-            margin-inline-end: 0.75rem;
+    margin-inline-end: 0.75rem;
     color: #4B5563;
     background-color: #ffffff;
     pointer-events: none;
@@ -2210,8 +2209,7 @@ progress {
   .form-control::file-selector-button {
     padding: 0.55rem 0.75rem;
     margin: -0.55rem -0.75rem;
-    -webkit-margin-end: 0.75rem;
-            margin-inline-end: 0.75rem;
+    margin-inline-end: 0.75rem;
     color: #4B5563;
     background-color: #ffffff;
     pointer-events: none;
@@ -2234,8 +2232,7 @@ progress {
   .form-control::-webkit-file-upload-button {
     padding: 0.55rem 0.75rem;
     margin: -0.55rem -0.75rem;
-    -webkit-margin-end: 0.75rem;
-            margin-inline-end: 0.75rem;
+    margin-inline-end: 0.75rem;
     color: #4B5563;
     background-color: #ffffff;
     pointer-events: none;
@@ -2275,18 +2272,15 @@ progress {
   .form-control-sm::-webkit-file-upload-button {
     padding: 0.25rem 0.5rem;
     margin: -0.25rem -0.5rem;
-    -webkit-margin-end: 0.5rem;
-            margin-inline-end: 0.5rem; }
+    margin-inline-end: 0.5rem; }
   .form-control-sm::file-selector-button {
     padding: 0.25rem 0.5rem;
     margin: -0.25rem -0.5rem;
-    -webkit-margin-end: 0.5rem;
-            margin-inline-end: 0.5rem; }
+    margin-inline-end: 0.5rem; }
   .form-control-sm::-webkit-file-upload-button {
     padding: 0.25rem 0.5rem;
     margin: -0.25rem -0.5rem;
-    -webkit-margin-end: 0.5rem;
-            margin-inline-end: 0.5rem; }
+    margin-inline-end: 0.5rem; }
 
 .form-control-lg {
   min-height: calc(1.5em + 1.125rem);
@@ -2296,18 +2290,15 @@ progress {
   .form-control-lg::-webkit-file-upload-button {
     padding: 0.5rem 1rem;
     margin: -0.5rem -1rem;
-    -webkit-margin-end: 1rem;
-            margin-inline-end: 1rem; }
+    margin-inline-end: 1rem; }
   .form-control-lg::file-selector-button {
     padding: 0.5rem 1rem;
     margin: -0.5rem -1rem;
-    -webkit-margin-end: 1rem;
-            margin-inline-end: 1rem; }
+    margin-inline-end: 1rem; }
   .form-control-lg::-webkit-file-upload-button {
     padding: 0.5rem 1rem;
     margin: -0.5rem -1rem;
-    -webkit-margin-end: 1rem;
-            margin-inline-end: 1rem; }
+    margin-inline-end: 1rem; }
 
 textarea.form-control {
   min-height: calc(1.5em + 1.225rem); }
