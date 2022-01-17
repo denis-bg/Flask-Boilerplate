@@ -2,21 +2,40 @@
 
 > Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
-- Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
+- `Up-to-date dependencies`
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **Pixel Lite** (Free Version) provided by **Themesberg**
-- SQLite database, Flask-SQLAlchemy ORM
-- Session-Based auth flow (login, register)
-- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- `DB Tools`: SQLite database, Flask-SQLAlchemy ORM
+- Session-Based authentication (via **flask_login**), Forms validation
+- `Deployment`: **Docker**, Gunicorn / Nginx, HEROKU
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
 > Links
 
-- [Boierplate Code Flask](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit) - product page
-- [Boierplate Code Flask](https://flask-pixel-lite.appseed-srv1.com/) - LIVE Deployment
-- [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
+- 👉 [Boierplate Code Flask](https://appseed.us/apps/flask-apps/flask-pixel-bootstrap-uikit) - product page
+- 👉 [Boierplate Code Flask](https://flask-pixel-lite.appseed-srv1.com/) - LIVE Deployment
+- 👉 [Boierplate Code Flask](https://docs.appseed.us/boilerplate-code/flask/) - Documentation
+
+<br />
+
+## ✨ Quick Start in `Docker`
+
+> Get the code
+
+```bash
+$ git clone https://github.com/app-generator/boilerplate-code-flask.git
+$ cd boilerplate-code-flask
+```
+
+> Start the app in Docker
+
+```bash
+$ docker-compose up --build 
+```
+
+Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
@@ -24,7 +43,7 @@
 
 <br />
 
-## Build from sources
+## ✨ Build from sources
 
 ```bash
 $ # Clone the sources
@@ -64,7 +83,7 @@ $ # Access the app in browser: http://127.0.0.1:5000/
 
 <br />
 
-## Code-base structure
+## ✨ Code-base structure
 
 The project has a super simple structure, represented as bellow:
 
@@ -118,7 +137,7 @@ The project has a super simple structure, represented as bellow:
 
 <br />
 
-## Recompile CSS
+## ✨ Recompile CSS
 
 To recompile SCSS files, follow this setup:
 
@@ -161,33 +180,9 @@ The generated file is saved in `static/assets/css` directory.
 
 <br />
 
-## Deployment
+## ✨ Deployment
 
 The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Heroku](https://www.heroku.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
-
-<br />
-
-### [Docker](https://www.docker.com/) execution
----
-
-The application can be easily executed in a docker container. The steps:
-
-> Get the code
-
-```bash
-$ git clone https://github.com/app-generator/boilerplate-code-flask.git
-$ cd boilerplate-code-flask
-```
-
-> Start the app in Docker
-
-```bash
-$ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
-```
-
-Visit `http://localhost:85` in your browser. The app should be up & running.
-
-<br />
 
 ### [Heroku](https://www.heroku.com/)
 ---
@@ -266,7 +261,7 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 
 <br />
 
-## Credits & Links
+## ✨ Credits & Links
 
 - [Flask Framework](https://www.palletsprojects.com/p/flask/) - The official website
 - [Boilerplate Code](https://appseed.us/boilerplate-code) - Index provided by **AppSeed**
