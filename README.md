@@ -1,6 +1,6 @@
 # Flask Boilerplate 
 
-> Experimental codebase `!!! Don't use it in production !!!` 
+Reference codebase used by AppSeed in all [Flask Apps](https://appseed.us/apps/flask/) starters.
 
 <br />
 
@@ -18,6 +18,13 @@
 - Database: `mysql`
 - `DB Tools`: SQLAlchemy ORM, Flask-Migrate (schema migrations)
 - Session-Based authentication (via **flask_login**), Forms validation
+- 👉 [Complete documentation](https://docs.appseed.us/boilerplate-code/flask) - `Learn how to use and update the product`
+  - ✅ [Set up the environment](https://docs.appseed.us/boilerplate-code/flask#environment)
+  - ✅ [Manage App users](https://docs.appseed.us/boilerplate-code/flask#manage-app-users)
+  - ✅ [Application Bootstrap Flow](https://docs.appseed.us/boilerplate-code/flask#application-bootstrap-flow)
+  - ✅ [UI Assets and Templates](https://docs.appseed.us/boilerplate-code/flask#ui-assets-and-templates)
+  - ✅ [Set up the MySql Database](https://docs.appseed.us/boilerplate-code/flask#set-up-the-mysql-database)
+  - ✅ [Static Assets for production](https://docs.appseed.us/boilerplate-code/flask#static-assets-for-production)
 
 <br />
 
