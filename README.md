@@ -20,7 +20,7 @@ Reference codebase used by AppSeed in all **Flask** [Apps](https://appseed.us/ap
 
 ## ✨ Start the app in Docker
 
-> **Step 1** - Download the code from the GH repository (using `GIT`) 
+> 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
 
 ```bash
 $ git clone https://github.com/app-generator/boilerplate-code-flask.git
@@ -29,7 +29,7 @@ $ cd boilerplate-code-flask
 
 <br />
 
-> **Step 2** - Edit `.env` and set `DEBUG=True`. This will activate the `SQLite` persistance. 
+> 👉 **Step 2** - Edit `.env` and set `DEBUG=True`. This will activate the `SQLite` persistance. 
 
 ```txt
 DEBUG=True
@@ -37,7 +37,7 @@ DEBUG=True
 
 <br />
 
-> **Step 3** - Start the APP in `Docker`
+> 👉 **Step 3** - Start the APP in `Docker`
 
 ```bash
 $ docker-compose up --build 
