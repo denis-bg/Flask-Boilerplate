@@ -1,4 +1,4 @@
-# [Flask Boilerplate](https://appseed.us/admin-dashboards/flask/) 
+# [Flask](https://appseed.us/admin-dashboards/flask/) Boilerplate
 
 Reference codebase used by AppSeed in all **Flask** [Apps](https://appseed.us/apps/flask/) and [Dashboard](https://appseed.us/admin-dashboards/flask/) starters - the product uses an amazing design crafted by `Creative-Tim`.
 
@@ -181,4 +181,4 @@ The project is coded using blueprints, app factory pattern, dual configuration p
 <br />
 
 ---
-[Flask Boilerplate](https://appseed.us/admin-dashboards/flask/) - Open-source starter provided by **[App Generator](https://appseed.us/generator/)**.
+# [Flask](https://appseed.us/admin-dashboards/flask/) Boilerplate - Open-source starter provided by **[App Generator](https://appseed.us/generator/)**.
