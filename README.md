@@ -1,6 +1,6 @@
 # [Flask](https://appseed.us/admin-dashboards/flask/) Boilerplate
 
-Reference codebase used by AppSeed in all **Flask** [Apps](https://appseed.us/apps/flask/) and [Dashboard](https://appseed.us/admin-dashboards/flask/) starters - the product uses an amazing design crafted by `Creative-Tim`.
+Reference codebase used by `AppSeed` in all **Flask** [Apps](https://appseed.us/apps/flask/) and [Dashboard](https://appseed.us/admin-dashboards/flask/) starters - the product uses an amazing design crafted by `Creative-Tim`.
 
 <br />
 
