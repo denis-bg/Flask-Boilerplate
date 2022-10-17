@@ -181,4 +181,4 @@ The project is coded using blueprints, app factory pattern, dual configuration p
 <br />
 
 ---
-# [Flask](https://appseed.us/admin-dashboards/flask/) Boilerplate - Open-source starter provided by **[App Generator](https://appseed.us/generator/)**.
+[Flask](https://appseed.us/admin-dashboards/flask/) Boilerplate - Open-source starter provided by **[App Generator](https://appseed.us/generator/)**.
