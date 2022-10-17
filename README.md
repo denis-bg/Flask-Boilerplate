@@ -23,7 +23,6 @@ Reference codebase used by AppSeed in all **Flask** [Apps](https://appseed.us/ap
 > **Step 1** - Download the code from the GH repository (using `GIT`) 
 
 ```bash
-$ # Get the code
 $ git clone https://github.com/app-generator/boilerplate-code-flask.git
 $ cd boilerplate-code-flask
 ```
