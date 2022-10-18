@@ -10,7 +10,7 @@ Reference codebase used by `AppSeed` in all **Flask** [Apps](https://appseed.us/
 - Database: `sqlite`
 - `DB Tools`: SQLAlchemy ORM, Flask-Migrate (schema migrations)
 - Session-Based authentication (via **flask_login**), Forms validation
-- Design: [Material Kit](https://www.creative-tim.com/product/material-kit?AFFILIATE=128200) `BS5 version` from [Creative-Tim](https://www.creative-tim.com/?AFFILIATE=128200)
+- Design: [Material Kit](https://www.creative-tim.com/product/material-kit?AFFILIATE=128200) `BS5 version` from `Creative-Tim`
 
 <br />
 
